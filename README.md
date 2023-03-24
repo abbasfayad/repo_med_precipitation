@@ -1,2 +1,1 @@
-# repo_med_precipitation
-Mediterranean Precipitation Analysis
+# Mediterranean Precipitation Analysis
